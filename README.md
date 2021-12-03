@@ -1,9 +1,6 @@
-current condition : 
+What this repo does:
+=======================
 
-  successfully send input number (only) to node from react front end
-  
-  calculate medians and send to react
-  
-  need a refresh to see the medians properly
-  
-  testing has not been done yet
+  1. Successfully send user input (number only) from Front end (React) to backend (Node)
+  2. Calculate medians and send back to front end
+  3. Need a refresh to see the median properly
